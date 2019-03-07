@@ -1,0 +1,16 @@
+{
+    "name": "luokuncool/taobao-sdk-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luokuncool",
+            "email": "1131915347@qq.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "TopSdk.php"
+        ]
+    },
+    "require": {}
+}
