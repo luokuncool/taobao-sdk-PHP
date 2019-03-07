@@ -1,6 +1,5 @@
 <?php
 
-
 class CorpInvoiceGetAvailableRequest
 {
     private $apiParas = array();
